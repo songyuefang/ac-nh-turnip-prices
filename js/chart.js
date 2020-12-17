@@ -20,7 +20,7 @@ const chart_options = {
     mode: "index",
   },
 };
-
+//hhhhhhhhhhhhhhhhhh
 function update_chart(input_data, possibilities) {
   let ctx = $("#chart"),
   datasets = [{
