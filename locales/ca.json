@@ -13,7 +13,6 @@
     "yes": "Sí",
     "no": "No"
   },
-  //////////////////
   "patterns": {
     "title": "Patró anterior",
     "description": "Quin patró tenien els teus preus la setmana passada?<i>(Afecta al patró actual)</i>",
