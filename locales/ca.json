@@ -7,12 +7,7 @@
     "description": "Aquesta app et permet predir els preus dels naps a la teva illa, però hauràs d'introduir-hi tu els preus passats!",
     "conclusion": "Fet això, l'app Turnip Prophet <b>endevinarà</b> els preus que tindràs durant la resta de la setmana."
   },
-  "first-time": {
-    "title": "Primer cop que compres",
-    "description": "És la primera vegada que li compres naps a la Juliana a la <b>teva</b> illa?<i>(Afecta al patró de preus)</i>",
-    "yes": "Sí",
-    "no": "No"
-  },
+
   //////////////////
   "patterns": {
     "title": "Patró anterior",
